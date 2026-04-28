@@ -21,5 +21,6 @@ echo " "
 echo "==== Health Check $(date '+%Y-%m-%d %H:%M-%S') ===="
 free -h >> health_log.txt
 df -h >> health_log.txt
-echo "Log Saved"
+echo "log saved"
+
 
